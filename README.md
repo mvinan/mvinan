@@ -1,8 +1,16 @@
 # Hi 👋, My name is Miguel Viñan.
 
+### \<Full Stack developer \/>
+
 [![](https://img.shields.io/badge/-@mvinan-%23181717?style=flat-square&logo=github)](https://github.com/mvinan)
 [![](https://img.shields.io/badge/-@MiguelVinan-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/MiguelVinan)
 [![](https://img.shields.io/badge/-Miguel%20Viñan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniaal-nadir/)](https://www.linkedin.com/in/miguelvinan/)
+
+I'm a `full stack` Js developer passionate about my work. But currently I am very focused to be a specialist in `frontend` development. ❤️
+
+<br />
+
+## About me
 
 - 👀 I’m love ReactJS, NextJs, ReactNative and all technologies based on Js.
 - 🌱 I’m currently learning NextJs + Recoil + React Query.
@@ -30,6 +38,7 @@
   </div>
 </div>
 
+<br />
 <br />
 
 ![Top Languages](https://github-readme-stats-mvinan.vercel.app/api/top-langs/?username=mvinan&layout=compact&theme=radical)
