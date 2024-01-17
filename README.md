@@ -13,8 +13,8 @@ I'm a `full stack` Js developer passionate about my work. But currently I am ver
 ## About me
 
 - 👀 I’m love ReactJS, NextJs, ReactNative and all technologies based on Js.
-- 🌱 I’m currently learning NextJs + Recoil + React Query.
-- 💻 I'm currently working with the React Js, React Native, and Redux toolkit ecosystem, including RTk Query.
+- 🌱 I’m currently learning NextJs.
+- 💻 I'm currently working with the React ecosystem, including React Native.
 - 📫 You can contact me or write me an email at [a@miguelvinan.com](mailto:a@miguelvinan.com) or on my social networks I will always be happy to share with you.
 
 ## Languages and Tools
